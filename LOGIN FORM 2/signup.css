@@ -1,0 +1,38 @@
+form {
+    background-color: whitesmoke;
+    margin-top: 80px;
+    height: 75vh;
+    width: 195vh;
+    border-radius: 30px;
+    margin-left: 35px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(4, 102, 4);
+    
+    background-color: whitesmoke;
+    font-size: 10vh;
+    margin-left: 350px;
+    text-shadow: black 5px 5px 5px;
+}
+
+input {
+    margin: 10px;
+    width: 60vh;
+    height: 6vh;
+    padding-left: 20px;
+    font-size: 17px;
+    border-radius: 5px;
+    margin-left: 130px;
+    border-color:  rgb(37, 190, 190);
+}
+
+button {
+    background: linear-gradient(rgba(0, 255, 255, 0.541), rgba(0, 128, 0, 0.425));
+    color: whitesmoke;
+    margin-left: 130px;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px;
+}

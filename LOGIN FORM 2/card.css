@@ -1,0 +1,63 @@
+form {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 70px;
+    width: 120vh;
+    height: 80vh;
+}
+
+h1 {
+    color:  rgb(4, 102, 4);
+    text-shadow: 2px 2px 2px black;
+    font-size: 50px;
+}
+
+input {
+    margin: 10px;
+    width: 60vh;
+    height: 5vh;
+    font-size: 17px;
+    border-radius: 5px;
+    padding-left: 20px;
+   border-color: aquamarine rgb(25, 206, 25);
+}
+
+button {
+    width: 65vh;
+    height: 5vh;
+    font-size: 17px;
+    border-radius: 5px;
+    background-color: rgb(37, 190, 190);
+    color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(37, 190, 190);
+}
+
+.or-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .or-line {
+    width: 300px;
+    height: 1px;
+    background-color: black;
+  }
+  
+  .or-text {
+    margin: 0 10px;
+    font-weight: bold;
+  }
+  
+  .ass {
+    color: rgb(4, 102, 4);
+    font-size: 25px;
+  }
+
+  
